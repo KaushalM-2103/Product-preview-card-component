@@ -21,6 +21,6 @@ There are many ways to host your project for free. recommend hosts are:
 
 **I have deployed this repo on `VERCEL`**
 
-- LINK [Product preview card component](https://product-preview-card-component-kaushalm-2103.vercel.app/)
+- WEBSITE LINK [Product preview card component](https://product-preview-card-component-kaushalm-2103.vercel.app/)
 
 **Have fun building!** 🚀
